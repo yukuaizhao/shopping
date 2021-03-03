@@ -1,0 +1,15 @@
+@import './normalize.css';
+body{
+  margin: 0;
+  padding: 0;
+}
+@media screen and (min-width: 320px) {
+  html{
+    font-size: 21.3px;
+  }
+}
+@media screen and (min-width: 750px){
+  html{
+    font-size: 50px;
+  }
+}
